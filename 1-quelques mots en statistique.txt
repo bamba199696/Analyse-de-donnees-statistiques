@@ -1,0 +1,11 @@
+Distribution 
+La fonction gaussienne
+Moyenne
+Médiane
+Outliers
+Centile
+Écart interquartile
+Variance
+Écart type
+La covariance
+Le coefficient de corrélation de pearson
